@@ -1,4 +1,4 @@
-# CSE342-Statistical-Machine-Learning-2025-
+# CSE342-Statistical-Machine-Learning-2025
 📊 Statistical Machine Learning — Winter 2025 (IIIT-Delhi) 
 📝 Assignments, quizzes, midsem &amp; endsem solutions  
 📈 Linear &amp; Logistic Regression implementations  
